@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.header-text--box {
+  width: 440px;
+  align-self: center;
+}
+
+.header-text--heading {
+  margin-bottom: 24px;
+}
+
+.header-text--content {
+  margin-bottom: 24px;
+}
+
+.hero-img {
+  width: 440px;
+}
+
+.hero {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 80px;
+}
