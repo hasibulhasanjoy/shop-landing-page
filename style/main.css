@@ -35,4 +35,20 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 80px;
+  margin-bottom: 80px;
+}
+
+.feature-section--header {
+  margin-bottom: 48px;
+}
+
+.feature-section--title {
+  margin-bottom: 16px;
+}
+
+.features-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 80px;
+  margin-bottom: 48px;
 }
