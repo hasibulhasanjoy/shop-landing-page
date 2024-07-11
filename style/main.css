@@ -52,3 +52,25 @@ body {
   column-gap: 80px;
   margin-bottom: 48px;
 }
+
+.testimonial-section--image {
+  width: 440px;
+}
+
+.testimonial-section--header {
+  margin-bottom: 16px;
+}
+
+.testimonial-section--text {
+  margin-bottom: 16px;
+}
+
+.testimonial-section--text-box {
+  align-self: center;
+}
+
+.testimonial-section--container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 48px;
+}
