@@ -74,3 +74,41 @@ body {
   grid-template-columns: repeat(2, 1fr);
   margin-bottom: 48px;
 }
+.best-selling--container img {
+  max-width: 266.67px;
+  max-height: 195px;
+  margin-bottom: 16px;
+}
+
+.best-selling--Name {
+  margin-bottom: 16px;
+}
+
+.best-selling--list {
+  list-style: none;
+  margin-bottom: 16px;
+}
+
+.best-selling--list li {
+  margin-bottom: 16px;
+}
+
+.best-selling--list li:last-child {
+  margin-bottom: 0;
+}
+
+.best-selling--text-box {
+  margin: 24px;
+}
+
+.best-selling--laptop-price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.best-selling--container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 80px;
+  margin-bottom: 48px;
+}
