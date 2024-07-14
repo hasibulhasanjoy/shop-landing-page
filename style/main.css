@@ -103,6 +103,10 @@ body {
   margin-bottom: 16px;
 }
 
+.best-selling--card {
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+}
+
 .best-selling--Name {
   margin-bottom: 16px;
 }
