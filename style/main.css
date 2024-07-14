@@ -105,7 +105,7 @@ body {
   color: #696969;
 }
 .best-selling--container img {
-  max-width: 266.67px;
+  width: 266.67px;
   max-height: 195px;
   margin-bottom: 16px;
 }
@@ -146,6 +146,18 @@ body {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 80px;
   margin-bottom: 48px;
+}
+
+/* border radius */
+img,
+.testimonial-section--container,
+.best-selling--card {
+  border-radius: 12px;
+}
+
+.best-selling--card img {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
 }
 
 .footer-section {
