@@ -1,1 +1,1 @@
-# Shop-home-page
+# Landing page
