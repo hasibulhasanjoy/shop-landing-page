@@ -1,3 +1,3 @@
 # Landing page
 
-Live link : [click here](https://landing-page-hasibul.netlify.app/)
+**Live link:** <a href="https://landing-page-hasibul.netlify.app/" target="_blank"> click here</a>
